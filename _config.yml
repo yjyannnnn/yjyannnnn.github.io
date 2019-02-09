@@ -1,4 +1,4 @@
-title: Today
+title: Nothingspecial
 author: YYJ
 email: 906118808@qq.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,7 +12,7 @@ color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: yjyannnnn
 # twitter_username:
 instagram_username: yjyannnnn
-# telegram_username: bambooom
+# telegram_username:
 disqus_shortname: troub1emaker
 # Build settings
 markdown: kramdown
